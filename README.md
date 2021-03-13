@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-## Intriduction
+## Introduction
 
 no bra
 
@@ -18,4 +18,13 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 yes just give me money
+
+## Yes
+
+just changed something 
+
+## 日本語も書いてみる
+
+## 也写点中文试试
+
 
